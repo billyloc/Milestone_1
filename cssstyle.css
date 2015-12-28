@@ -1,0 +1,41 @@
+body {
+	background-image: url("picture for project 1.png");
+}
+
+header div {
+	background-color: #444444;
+	color: white;
+	
+}
+
+div a {
+	color: white;
+}
+
+header {
+	border-top: black solid 1px;
+		border-bottom: black solid 1px;
+		background: white;
+		padding: 12px;
+	
+}
+
+footer {
+	background: white;
+	border-top: black solid 1px;
+	border-bottom: black solid 1px;
+	padding: 12px;
+}
+
+.products {
+	color: blue;
+}
+
+a {
+	color: blue;
+}
+
+
+
+
+
